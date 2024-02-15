@@ -53,7 +53,7 @@ Now you should be able to see interface like that,
 
 <p align='center'>
 <img src='./assets/Screenshot_20240215_141632_minispotify.jpg' alt='Screen Shot' width='300'/>
-<img src='./assets/Screenshot_20240215_141638_minispotify.jpg' alt='Screen Shot' width='300'/>
+<img src='./assets/Screenshot_20240215_141638_minispotify.jpg' alt='Screen Shot' width='300' magrinleft='100' />
 </p>
 
 ### Now what?
